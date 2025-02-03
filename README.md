@@ -1,4 +1,4 @@
-# calculadoraimc
+# trabFinal des Mobi
 
 A new Flutter project.
 
